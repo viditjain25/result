@@ -1,2 +1,1 @@
-Hi I am vidit
-using git was ok
+update the git repo
